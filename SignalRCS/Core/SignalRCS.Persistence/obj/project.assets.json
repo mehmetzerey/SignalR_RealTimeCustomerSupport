@@ -45,19 +45,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mehmet\\.nuget\\packages\\": {}
+    "C:\\Users\\Ahmetsftwtr\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Persistence\\SignalRCS.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmetsftwtr\\Source\\Repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Persistence\\SignalRCS.Persistence.csproj",
       "projectName": "SignalRCS.Persistence",
-      "projectPath": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Persistence\\SignalRCS.Persistence.csproj",
-      "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Persistence\\obj\\",
+      "projectPath": "C:\\Users\\Ahmetsftwtr\\Source\\Repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Persistence\\SignalRCS.Persistence.csproj",
+      "packagesPath": "C:\\Users\\Ahmetsftwtr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ahmetsftwtr\\Source\\Repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Persistence\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Mehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ahmetsftwtr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,8 +75,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Application\\SignalRCS.Application.csproj": {
-              "projectPath": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Application\\SignalRCS.Application.csproj"
+            "C:\\Users\\Ahmetsftwtr\\Source\\Repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Application\\SignalRCS.Application.csproj": {
+              "projectPath": "C:\\Users\\Ahmetsftwtr\\Source\\Repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Application\\SignalRCS.Application.csproj"
             }
           }
         }

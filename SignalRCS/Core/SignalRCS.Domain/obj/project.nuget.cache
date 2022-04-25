@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dUM/8SsC7ffkHB0JzT1p7EKokswOL85sw0yQV/yz1vDizVw+m6zbhSRph+entksQTYlef1z3IfX8HkmPdAcyTA==",
+  "dgSpecHash": "4ClDbWIYmW01c9on0O3wo1lw3bPfyGqwxoESE3mE6J+C/dVXofpfvph11XXPolyAxvBqccCfIVcN/cx/y7ZCtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Domain\\SignalRCS.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Ahmetsftwtr\\Source\\Repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Domain\\SignalRCS.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

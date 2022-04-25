@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mehmet\\.nuget\\packages\\": {}
+    "C:\\Users\\Ahmetsftwtr\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Domain\\SignalRCS.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmetsftwtr\\Source\\Repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Domain\\SignalRCS.Domain.csproj",
       "projectName": "SignalRCS.Domain",
-      "projectPath": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Domain\\SignalRCS.Domain.csproj",
-      "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Ahmetsftwtr\\Source\\Repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Domain\\SignalRCS.Domain.csproj",
+      "packagesPath": "C:\\Users\\Ahmetsftwtr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ahmetsftwtr\\Source\\Repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Core\\SignalRCS.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Mehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ahmetsftwtr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
