@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{69E169E1-04B0-4015-BD08-EB79C24892A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCS.WEB", "SignalRCS.WEB\SignalRCS.WEB.csproj", "{5175FF15-2FA6-4282-ACA0-ECF126C3D3F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCS.WEB", "Presentation\SignalRCS.WEB\SignalRCS.WEB.csproj", "{5175FF15-2FA6-4282-ACA0-ECF126C3D3F8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCS.Domain", "Core\SignalRCS.Domain\SignalRCS.Domain.csproj", "{EA371324-489C-4DE4-9F0D-A1BFC79C9ABA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCS.Application", "Core\SignalRCS.Application\SignalRCS.Application.csproj", "{5DFCE0D3-A4A3-46F2-B15B-1268E7DD0B77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCS.Infrastructure", "Core\SignalRCS.Infrastructure\SignalRCS.Infrastructure.csproj", "{ED254D57-119E-46DF-A696-943B33DB7D8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCS.Infrastructure", "Infrastructure\SignalRCS.Infrastructure\SignalRCS.Infrastructure.csproj", "{ED254D57-119E-46DF-A696-943B33DB7D8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCS.Persistence", "Core\SignalRCS.Persistence\SignalRCS.Persistence.csproj", "{B15A2129-D81C-4A89-BB5E-07D0846A8948}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCS.Persistence", "Infrastructure\SignalRCS.Persistence\SignalRCS.Persistence.csproj", "{B15A2129-D81C-4A89-BB5E-07D0846A8948}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

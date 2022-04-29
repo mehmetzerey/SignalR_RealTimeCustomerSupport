@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4Zci1NtPbStj3sgdSmBbbSAgYWeP1xMtVA91/ahraRPadHm+XErDOvJsWd3U/KsXCAvGMpyIWAB7Wep5KeRLA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Infrastructure\\SignalRCS.Infrastructure\\SignalRCS.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehmet\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Infrastructure\\SignalRCS.Application\\SignalRCS.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Mehmet\\source\\repos\\SignalR_RealTimeCustomerSupport\\SignalRCS\\Infrastructure\\SignalRCS.Application\\SignalRCS.Application.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

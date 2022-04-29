@@ -1,0 +1,17 @@
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\bin\Debug\net6.0\SignalR.Infrastructure.deps.json
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\bin\Debug\net6.0\SignalR.Infrastructure.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\bin\Debug\net6.0\SignalR.Infrastructure.pdb
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\SignalR.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\SignalR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\SignalR.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\SignalR.Infrastructure.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\SignalR.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\SignalR.Infrastructure.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\refint\SignalR.Infrastructure.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\SignalR.Infrastructure.pdb
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\ref\SignalR.Infrastructure.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\bin\Debug\net6.0\SignalR.Application.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\bin\Debug\net6.0\SignalR.Domain.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\bin\Debug\net6.0\SignalR.Application.pdb
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\bin\Debug\net6.0\SignalR.Domain.pdb
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Infrastructure\obj\Debug\net6.0\SignalR.Infrastructure.csproj.CopyComplete

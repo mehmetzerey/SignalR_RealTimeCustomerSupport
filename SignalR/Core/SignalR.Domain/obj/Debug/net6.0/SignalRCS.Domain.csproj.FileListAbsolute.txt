@@ -1,0 +1,12 @@
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\bin\Debug\net6.0\SignalRCS.Domain.deps.json
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\bin\Debug\net6.0\SignalRCS.Domain.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\bin\Debug\net6.0\SignalRCS.Domain.pdb
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\obj\Debug\net6.0\SignalRCS.Domain.csproj.AssemblyReference.cache
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\obj\Debug\net6.0\SignalRCS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\obj\Debug\net6.0\SignalRCS.Domain.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\obj\Debug\net6.0\SignalRCS.Domain.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\obj\Debug\net6.0\SignalRCS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\obj\Debug\net6.0\SignalRCS.Domain.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\obj\Debug\net6.0\refint\SignalRCS.Domain.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\obj\Debug\net6.0\SignalRCS.Domain.pdb
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Core\SignalRCS.Domain\obj\Debug\net6.0\ref\SignalRCS.Domain.dll

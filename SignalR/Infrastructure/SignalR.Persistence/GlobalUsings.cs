@@ -1,0 +1,9 @@
+﻿global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using SignalR.Domain.Entities;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using SignalR.Application;
+global using Microsoft.Extensions.Configuration;
+global using System.Reflection;
+global using SignalR.Persistence.Identity;
+global using Microsoft.Extensions.DependencyInjection;

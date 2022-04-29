@@ -1,0 +1,12 @@
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\bin\Debug\net6.0\SignalRCS.Persistence.deps.json
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\bin\Debug\net6.0\SignalRCS.Persistence.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\bin\Debug\net6.0\SignalRCS.Persistence.pdb
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\obj\Debug\net6.0\SignalRCS.Persistence.csproj.AssemblyReference.cache
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\obj\Debug\net6.0\SignalRCS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\obj\Debug\net6.0\SignalRCS.Persistence.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\obj\Debug\net6.0\SignalRCS.Persistence.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\obj\Debug\net6.0\SignalRCS.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\obj\Debug\net6.0\SignalRCS.Persistence.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\obj\Debug\net6.0\refint\SignalRCS.Persistence.dll
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\obj\Debug\net6.0\SignalRCS.Persistence.pdb
+C:\Users\Mehmet\source\repos\SignalR_RealTimeCustomerSupport\SignalR\Infrastructure\SignalRCS.Persistence\obj\Debug\net6.0\ref\SignalRCS.Persistence.dll
